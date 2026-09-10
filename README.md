@@ -58,7 +58,7 @@
 **AI Agent 独立开发者**　｜　2026.07 – 2026.08
 
 <p>
-  <a href="https://github.com/MrBaoboer/FenCun/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/MrBaoboer/FenCun?style=flat&label=stars&labelColor=1F2328&color=3D444D"></a>
+  <a href="https://github.com/MrBaoboer/FenCun/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/MrBaoboer/FenCun?style=flat&label=stars&labelColor=1F2328&color=F59E0B"></a>
   <a href="https://github.com/MrBaoboer/FenCun/commits"><img alt="last commit" src="https://img.shields.io/github/last-commit/MrBaoboer/FenCun?style=flat&label=last%20commit&labelColor=1F2328&color=3D444D"></a>
 </p>
 
