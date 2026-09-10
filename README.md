@@ -46,7 +46,7 @@
 <p>
   <a href="https://github.com/MrBaoboer/PayDance/releases/latest"><img alt="release" src="https://img.shields.io/github/v/release/MrBaoboer/PayDance?style=flat&label=release&labelColor=1F2328&color=3D444D"></a>
   <a href="https://github.com/MrBaoboer/PayDance/releases"><img alt="downloads" src="https://img.shields.io/github/downloads/MrBaoboer/PayDance/total?style=flat&label=downloads&labelColor=1F2328&color=F59E0B"></a>
-  <a href="https://github.com/MrBaoboer/PayDance/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/MrBaoboer/PayDance?style=flat&label=stars&labelColor=1F2328&color=3D444D"></a>
+  <a href="https://github.com/MrBaoboer/PayDance/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/MrBaoboer/PayDance?style=flat&label=stars&labelColor=1F2328&color=F59E0B"></a>
 </p>
 
 - **需求洞察**　捕捉到年轻职场用户对“工作时间—工资回报”实时感知的情绪需求，借助 Codex 和 Claude Code 独立开发了一款轻量优雅的「实时工资」小软件，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值可视化。
