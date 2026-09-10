@@ -45,7 +45,7 @@
 
 <p>
   <a href="https://github.com/MrBaoboer/PayDance/releases/latest"><img alt="release" src="https://img.shields.io/github/v/release/MrBaoboer/PayDance?style=flat&label=release&labelColor=1F2328&color=3D444D"></a>
-  <a href="https://github.com/MrBaoboer/PayDance/releases"><img alt="downloads" src="https://img.shields.io/github/downloads/MrBaoboer/PayDance/total?style=flat&label=downloads&labelColor=1F2328&color=3D444D"></a>
+  <a href="https://github.com/MrBaoboer/PayDance/releases"><img alt="downloads" src="https://img.shields.io/github/downloads/MrBaoboer/PayDance/total?style=flat&label=downloads&labelColor=1F2328&color=F59E0B"></a>
   <a href="https://github.com/MrBaoboer/PayDance/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/MrBaoboer/PayDance?style=flat&label=stars&labelColor=1F2328&color=3D444D"></a>
 </p>
 
