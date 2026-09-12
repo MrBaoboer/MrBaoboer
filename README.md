@@ -51,11 +51,11 @@
 
 - **需求洞察**　捕捉到年轻职场用户对“工作时间—工资回报”实时感知的情绪需求，借助 Codex 和 Claude Code 独立开发了一款轻量优雅的「实时工资」小软件，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值可视化。
 - **产品实现**　项目基于 Tauri 2 + Vue 3 构建；网页版全面适配 PC 端与移动端，桌面版提供迷你悬浮窗，支持随时查看“已经挣了多少钱”。
-- **发布增长**　独立完成[产品官网](https://paydance.vercel.app/)部署、CI / CD 工作流搭建与 [Product Hunt](https://www.producthunt.com/products/paydance) 首发；GitHub 下载量 1600+ 次、50+ Stars，获[抖音精选 AI 博主推荐](https://v.douyin.com/LAk1Ufx1cx4/)，已申请软件著作权，跑通“需求洞察—功能设计—开发测试—发布增长”的完整闭环。
+- **发布增长**　独立完成[产品官网](https://paydance.vercel.app/)部署、CI / CD 工作流搭建与 [Product Hunt](https://www.producthunt.com/products/paydance) 首发；GitHub 下载量 1800+ 次、50+ Stars，获[抖音精选 AI 博主推荐](https://v.douyin.com/LAk1Ufx1cx4/)，已申请软件著作权，跑通“需求洞察—功能设计—开发测试—发布增长”的完整闭环。
 
 ### 氛寸 · FenCun
 
-**AI Agent 独立开发者**　｜　2026.07 – 2026.08
+**AI Agent 独立产品开发者**　｜　2026.07 – 2026.09
 
 <p>
   <a href="https://github.com/MrBaoboer/FenCun/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/MrBaoboer/FenCun?style=flat&label=stars&labelColor=1F2328&color=F59E0B"></a>
