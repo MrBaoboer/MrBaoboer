@@ -112,7 +112,9 @@ GitHub 下载量 **1800+** 次、**55** Stars，获[抖音精选 AI 博主推荐
 
 跑通“需求洞察—功能设计—开发测试—发布增长”的完整闭环
 
-### 氛寸 · FenCun
+---
+
+## 氛寸 · FenCun
 
 **AI Agent 独立产品开发者**　｜　2026.07 – 2026.09
 
@@ -121,17 +123,51 @@ GitHub 下载量 **1800+** 次、**55** Stars，获[抖音精选 AI 博主推荐
   <a href="https://github.com/MrBaoboer/FenCun/commits"><img alt="last commit" src="https://img.shields.io/github/last-commit/MrBaoboer/FenCun?style=flat&label=last%20commit&labelColor=1F2328&color=3D444D"></a>
 </p>
 
-- **切入空白**　别人帮你挑香水，氛寸帮你用好香水：一个基于实时天气与出席场合的「用香决策」Agent，从用户已有的香柜里给出今天喷哪瓶、喷多少、喷在哪、能留多久，并解释为什么。
-- **架构判断**　决策权给规则引擎，表达权给大模型：打分、喷量与裁决全部由确定性规则计算，可解释、可复现、可降级；DeepSeek 只负责解析自然语言场景与生成话术，输出经 schema 校验与数字白名单把关，异常即整段回退模板。
-- **数据工程**　基于 Next.js + React + TypeScript 构建，线上可用：[fencun.vercel.app](https://fencun.vercel.app)；将 13.2 万款社区香水数据筛至 3.67 万款，热度前 1500 款完成全中文精选；140 余条用例守住对用户说出口的每一条承诺，上线一个多月迭代十余轮。
+### 需求洞察
 
-### 北京一童视界教育科技有限公司
+一个基于实时天气×出席场合的「香水决策」Agent，告诉你今天最适合喷哪瓶香水、怎样用得恰到好处
+
+### 产品实现
+
+基于 Next.js + React + TypeScript 构建，已上线[产品官网](https://fencun.vercel.app)
+
+从用户的香柜里给出今天喷哪瓶、喷多少、喷在哪、能留多久
+
+### 工程思路
+
+决策权给规则引擎，表达权给大模型
+
+打分、喷量与裁决全部由确定性规则计算，可解释、可复现、可降级
+
+DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验与数字白名单把关
+
+---
+
+## 北京一童视界教育科技有限公司
 
 **产品运营实习生**　｜　2026.02 – 2026.08
 
-- **卖点转译**　负责“StepFlow 交互式 3D 协同创作平台”的产品运营与卖点转译；结合市场调研与竞品分析，梳理目标用户、使用场景与差异化卖点，将 3D 协同创作、分步骤交互展示等复杂技术能力转化为客户易理解、可感知的产品表达。
-- **流程重构**　主动引入 AIGC 重构内容生产流程，独立开发[可运行 Demo](https://github.com/MrBaoboer/SunMao-Lantern) 32 套，具象化呈现方案效果、明确交互逻辑，指导研发团队落地实现。
-- **业务拓展**　识别到产品在电商场景中的应用潜力，提出“[3D 装配说明书](https://github.com/MrBaoboer/3D-Bike-Builder)”转型方案，推动形成新的业务方向。
+### 卖点转译
+
+负责“StepFlow 交互式 3D 协同创作平台”的产品运营与卖点转译
+
+结合市场调研与竞品分析，梳理目标用户、使用场景与差异化卖点
+
+将 3D 协同创作、分步骤交互展示等复杂技术能力转化为客户易理解、可感知的产品表达
+
+### 流程重构
+
+主动引入 AIGC 重构内容生产流程，独立开发[可运行 Demo](https://github.com/MrBaoboer/SunMao-Lantern) 32 套
+
+具象化呈现方案效果、明确交互逻辑，指导研发团队落地实现
+
+<img width="560" height="352" alt="image" src="https://github.com/user-attachments/assets/cdc85d9f-9711-4784-8058-df198ce43318" />
+<img width="576" height="384.6" alt="image" src="https://github.com/user-attachments/assets/43dd2d30-a4c9-417f-b4c3-d7e79e462a95" />
+
+
+### 业务拓展
+
+识别到产品在电商场景中的应用潜力，提出“[3D 装配说明书](https://github.com/MrBaoboer/3D-Bike-Builder)”转型方案，推动形成新的业务方向。
 
 ### 网易传媒科技（北京）有限公司
 
