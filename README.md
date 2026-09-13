@@ -123,6 +123,9 @@ GitHub 下载量 **1800+** 次、**55** Stars，获[抖音精选 AI 博主推荐
   <a href="https://github.com/MrBaoboer/FenCun/commits"><img alt="last commit" src="https://img.shields.io/github/last-commit/MrBaoboer/FenCun?style=flat&label=last%20commit&labelColor=1F2328&color=3D444D"></a>
 </p>
 
+
+<img width="259" height="414" alt="image" src="https://github.com/user-attachments/assets/43940c07-e84a-4297-aeae-b0bcd24bcd6f" />
+
 ### 需求洞察
 
 一个基于实时天气×出席场合的「香水决策」Agent，告诉你今天最适合喷哪瓶香水、怎样用得恰到好处
