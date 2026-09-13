@@ -161,13 +161,16 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 
 具象化呈现方案效果、明确交互逻辑，指导研发团队落地实现
 
-<img width="560" height="352" alt="image" src="https://github.com/user-attachments/assets/cdc85d9f-9711-4784-8058-df198ce43318" />
+<img width="486" height="416.7" alt="image" src="https://github.com/user-attachments/assets/e1fd2765-93bd-4e0c-b854-3d0734db664e" />
 <img <img width="491" height="388" alt="image" src="https://github.com/user-attachments/assets/b2f4db58-8848-4402-8b9a-e5aa773c3ee6" />
-
 
 ### 业务拓展
 
 识别到产品在电商场景中的应用潜力，提出“[3D 装配说明书](https://github.com/MrBaoboer/3D-Bike-Builder)”转型方案，推动形成新的业务方向。
+
+<img width="481.6" height="336.6" alt="image" src="https://github.com/user-attachments/assets/72e57702-4cc1-4ed8-9058-9f58a7d5dbaa" />
+<img width="338" height="290" alt="image" src="https://github.com/user-attachments/assets/6556fd94-32bc-4ef4-bdb1-36c1b5b9797c" />
+
 
 ### 网易传媒科技（北京）有限公司
 
