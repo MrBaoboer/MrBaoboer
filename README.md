@@ -162,7 +162,7 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 具象化呈现方案效果、明确交互逻辑，指导研发团队落地实现
 
 <img width="560" height="352" alt="image" src="https://github.com/user-attachments/assets/cdc85d9f-9711-4784-8058-df198ce43318" />
-<img width="576" height="384.6" alt="image" src="https://github.com/user-attachments/assets/43dd2d30-a4c9-417f-b4c3-d7e79e462a95" />
+<img width="491" height="388" alt="image" src="https://github.com/user-attachments/assets/3c9416a9-2089-4096-a36e-96126943829a" />
 
 
 ### 业务拓展
