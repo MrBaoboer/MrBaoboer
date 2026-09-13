@@ -124,7 +124,7 @@ GitHub 下载量 **1800+** 次、**55** Stars，获[抖音精选 AI 博主推荐
 </p>
 
 
-<img width="259" height="414" alt="image" src="https://github.com/user-attachments/assets/43940c07-e84a-4297-aeae-b0bcd24bcd6f" />
+<img width="271.9" height="434.7" alt="image" src="https://github.com/user-attachments/assets/43940c07-e84a-4297-aeae-b0bcd24bcd6f" />
 <img width="273" height="431" alt="image" src="https://github.com/user-attachments/assets/4e8468ef-a22e-4144-94f0-b826bb2842a2" />
 
 
@@ -167,13 +167,13 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 具象化呈现方案效果、明确交互逻辑，指导研发团队落地实现
 
 <img width="324" height="277.8" alt="image" src="https://github.com/user-attachments/assets/e1fd2765-93bd-4e0c-b854-3d0734db664e" />
-<img <img width="327.3" height="258.6" alt="image" src="https://github.com/user-attachments/assets/b2f4db58-8848-4402-8b9a-e5aa773c3ee6" />
+<img <img width="343.6" height=271.5" alt="image" src="https://github.com/user-attachments/assets/b2f4db58-8848-4402-8b9a-e5aa773c3ee6" />
 
 ### 业务拓展
 
 识别到产品在电商场景中的应用潜力，提出“[3D 装配说明书](https://github.com/MrBaoboer/3D-Bike-Builder)”转型方案，推动形成新的业务方向。
 
-<img width="321" height="224.4" alt="image" src="https://github.com/user-attachments/assets/72e57702-4cc1-4ed8-9058-9f58a7d5dbaa" />
+<img width="385" height="269.2" alt="image" src="https://github.com/user-attachments/assets/72e57702-4cc1-4ed8-9058-9f58a7d5dbaa" />
 <img width="331" height="262" alt="image" src="https://github.com/user-attachments/assets/242d7bb1-e6fd-42c5-a12b-9b1de7e2d79e" />
 
 ---
@@ -201,9 +201,9 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 
 **海外策划运营实习生**　｜　2022.09 – 2022.12
 
-<img width="298" height="533" alt="image" src="https://github.com/user-attachments/assets/f3d39036-5e07-4fd0-b778-b3df2175c62b" />
-<img width="298" height="533" alt="image" src="https://github.com/user-attachments/assets/fc6fdbf5-3da8-42d1-9a20-542dbbc10cbb" />
-<img width="298" height="533" alt="image" src="https://github.com/user-attachments/assets/b15c06f8-a48c-476f-90cb-61d8c2eb245b" />
+<img width="229.2" height="410" alt="image" src="https://github.com/user-attachments/assets/f3d39036-5e07-4fd0-b778-b3df2175c62b" />
+<img width="229.2" height="410" alt="image" src="https://github.com/user-attachments/assets/fc6fdbf5-3da8-42d1-9a20-542dbbc10cbb" />
+<img width="229.2" height="410" alt="image" src="https://github.com/user-attachments/assets/b15c06f8-a48c-476f-90cb-61d8c2eb245b" />
 
 ### 策划宣发
 
