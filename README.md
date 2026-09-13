@@ -33,30 +33,53 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 
 校级三好学生、优秀学生干部、优秀共青团员等，共获得校级及以上奖励 40 余项
 
-<img width="480" height="270" alt="班干竞选 副本 副本" src="https://github.com/user-attachments/assets/3b708ff9-2a2b-42af-a6cd-93e19de0ad55" />
+<img width="480" height="270" alt="个人荣誉" src="https://github.com/user-attachments/assets/3b708ff9-2a2b-42af-a6cd-93e19de0ad55" />
 
 ## 创业经历
 
-### 灵犀智教 · AI 赋能青少年科创实验教学解决方案
+### 灵犀智教 · AI 赋能青少年科创实验教学解决方案    **创始人 / CEO**　｜　2023.09 – 2026.03
 
-**创始人 / CEO**　｜　2023.09 – 2026.03
+### 项目定位
 
-- **项目定位**　面向中考理化生实验考试场景，针对“教学反馈不及时、评分标准不客观、操作过程难追溯”三大痛点，主导设计“AI 视觉识别 + 智能教学硬件 + 实验课程内容”一体化解决方案。
-
+面向中考理化生实验考试场景，针对“教学反馈不及时、评分标准不客观、操作过程难追溯”三大痛点，主导设计“AI 视觉识别 + 智能教学硬件 + 实验课程内容”一体化解决方案。
 
 <img width="480" height="270" alt="项目成果" src="https://github.com/user-attachments/assets/6191e15c-2c70-4d6f-9d45-2f01afee161e" />
 <img width="480" height="270" alt="核心技术" src="https://github.com/user-attachments/assets/b6df63dc-b95b-4324-b461-5a4e464e58a0" />
 
-- 
-- **核心工作**　从 0 到 1 完成需求拆解、竞品调研、产品功能规划、商业模式设计、路演材料与对外合作沟通；组建并带领北京师范大学 + 北京邮电大学两校教育学、计算机、商科等跨学科成员 30 余人，推动项目从概念方案进入创业孵化与竞赛验证阶段；作为第一发明人，已申请国家发明专利、实用新型专利 2 项。
-- **项目成果**　教育部第十八届全国大学生创新年会「创业推介项目」全国前 60 强，北师大历史首次入选；2024 年度国家级大学生创业计划项目「优秀结项」，已入驻北京高校大学生创业园（理工园）。
-- **竞赛成果**　中国国际“互联网+”大学生创新创业大赛北京赛区一等奖；中国信息协会 iCAN 大学生创新创业大赛全国总决赛二等奖、北京赛区一等奖；“挑战杯”全国大学生创业计划竞赛北京赛区银奖。
+### 核心工作
+
+从 0 到 1 完成需求拆解、竞品调研、产品功能规划、商业模式设计、路演材料与对外合作沟通。
+
+组建并带领北京师范大学 + 北京邮电大学两校教育学、计算机、商科等跨学科成员 30 余人，推动项目从概念方案进入创业孵化与竞赛验证阶段。
+
+<img width="480" height="270" alt="核心成员" src="https://github.com/user-attachments/assets/61a192a2-15b7-463c-9765-88860dc07f38" />
+
+作为第一发明人，已申请国家发明专利、实用新型专利 2 项。
+
+<img width="595" height="842" alt="发明专利" src="https://github.com/user-attachments/assets/4e6a5079-e73c-4a04-b3b4-ab5338bfe909" />
+<img width="595" height="842" alt="实用新型" src="https://github.com/user-attachments/assets/2f2bf294-4530-4634-8f8a-1d2b064aadf0" />
+
+### 项目成果
+
+教育部第十八届全国大学生创新年会「创业推介项目」全国前 60 强，北师大历史首次入选
+
+2024 年度国家级大学生创业计划项目「优秀结项」，已入驻北京高校大学生创业园（理工园）
+
+<img width="2559" height="1440" alt="国创年会" src="https://github.com/user-attachments/assets/8b251bd4-92a2-489c-af7e-a3ea6379bd35" />
+<img width="2559" height="1437" alt="创业园" src="https://github.com/user-attachments/assets/828905ed-7fce-429b-ab83-f6a9043c616c" />
+
+
+### 项目成果
+
+中国国际“互联网+”大学生创新创业大赛北京赛区一等奖
+
+中国信息协会 iCAN 大学生创新创业大赛全国总决赛二等奖、北京赛区一等奖
+
+“挑战杯”全国大学生创业计划竞赛北京赛区银奖
 
 ## 实践经历
 
-### 薪跳 · PayDance
-
-**Vibe Coding 独立产品开发者**　｜　2026.05 – 2026.08
+### 薪跳 · PayDance    **Vibe Coding 独立产品开发者**　｜　2026.05 – 2026.08
 
 <p>
   <a href="https://github.com/MrBaoboer/PayDance/releases/latest"><img alt="release" src="https://img.shields.io/github/v/release/MrBaoboer/PayDance?style=flat&label=release&labelColor=1F2328&color=3D444D"></a>
@@ -68,9 +91,7 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 - **产品实现**　项目基于 Tauri 2 + Vue 3 构建；网页版全面适配 PC 端与移动端，桌面版提供迷你悬浮窗，支持随时查看“已经挣了多少钱”。
 - **发布增长**　独立完成[产品官网](https://paydance.vercel.app/)部署、CI / CD 工作流搭建与 [Product Hunt](https://www.producthunt.com/products/paydance) 首发；GitHub 下载量 1800+ 次、50+ Stars，获[抖音精选 AI 博主推荐](https://v.douyin.com/LAk1Ufx1cx4/)，已申请软件著作权，跑通“需求洞察—功能设计—开发测试—发布增长”的完整闭环。
 
-### 氛寸 · FenCun
-
-**AI Agent 独立产品开发者**　｜　2026.07 – 2026.09
+### 氛寸 · FenCun    **AI Agent 独立产品开发者**　｜　2026.07 – 2026.09
 
 <p>
   <a href="https://github.com/MrBaoboer/FenCun/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/MrBaoboer/FenCun?style=flat&label=stars&labelColor=1F2328&color=F59E0B"></a>
