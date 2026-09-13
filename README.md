@@ -37,7 +37,9 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 
 ## 创业经历
 
-### 灵犀智教 · AI 赋能青少年科创实验教学解决方案    **创始人 / CEO**　｜　2023.09 – 2026.03
+### 灵犀智教 · AI 赋能青少年科创实验教学解决方案
+
+**创始人 / CEO**　｜　2023.09 – 2026.03
 
 ### 项目定位
 
@@ -84,7 +86,9 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 
 ## 实践经历
 
-### 薪跳 · PayDance    **Vibe Coding 独立产品开发者**　｜　2026.05 – 2026.08
+### 薪跳 · PayDance
+
+**Vibe Coding 独立产品开发者**　｜　2026.05 – 2026.08
 
 <p>
   <a href="https://github.com/MrBaoboer/PayDance/releases/latest"><img alt="release" src="https://img.shields.io/github/v/release/MrBaoboer/PayDance?style=flat&label=release&labelColor=1F2328&color=3D444D"></a>
@@ -96,7 +100,9 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 - **产品实现**　项目基于 Tauri 2 + Vue 3 构建；网页版全面适配 PC 端与移动端，桌面版提供迷你悬浮窗，支持随时查看“已经挣了多少钱”。
 - **发布增长**　独立完成[产品官网](https://paydance.vercel.app/)部署、CI / CD 工作流搭建与 [Product Hunt](https://www.producthunt.com/products/paydance) 首发；GitHub 下载量 1800+ 次、50+ Stars，获[抖音精选 AI 博主推荐](https://v.douyin.com/LAk1Ufx1cx4/)，已申请软件著作权，跑通“需求洞察—功能设计—开发测试—发布增长”的完整闭环。
 
-### 氛寸 · FenCun    **AI Agent 独立产品开发者**　｜　2026.07 – 2026.09
+### 氛寸 · FenCun
+
+**AI Agent 独立产品开发者**　｜　2026.07 – 2026.09
 
 <p>
   <a href="https://github.com/MrBaoboer/FenCun/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/MrBaoboer/FenCun?style=flat&label=stars&labelColor=1F2328&color=F59E0B"></a>
