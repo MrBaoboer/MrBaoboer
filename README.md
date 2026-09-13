@@ -10,9 +10,7 @@
 
 </div>
 
----
-
-## 教育背景
+# 教育背景
 
 | 学校 | 专业 | 学历 | 时间 |
 |:--|:--|:--|:--|
@@ -37,9 +35,7 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
   <img width="480" alt="个人荣誉" src="assets/edu-honors.webp">
 </p>
 
----
-
-## 创业经历
+# 创业经历
 
 ## 灵犀智教 · AI 赋能青少年科创实验教学解决方案
 
@@ -93,9 +89,7 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
   <img width="400" alt="创业园" src="assets/lingxi-incubator.webp">
 </p>
 
----
-
-## 实践经历
+# 实践经历
 
 ## 薪跳 · PayDance
 
@@ -133,8 +127,6 @@ GitHub 下载量 **1800+** 次、**55** Stars，获[抖音精选 AI 博主推荐
 
 跑通“需求洞察—功能设计—开发测试—发布增长”的完整闭环
 
----
-
 ## 氛寸 · FenCun
 
 **AI Agent 独立产品开发者**　｜　2026.07 – 2026.09
@@ -143,7 +135,6 @@ GitHub 下载量 **1800+** 次、**55** Stars，获[抖音精选 AI 博主推荐
   <a href="https://github.com/MrBaoboer/FenCun/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/MrBaoboer/FenCun?style=flat&label=stars&labelColor=1F2328&color=F59E0B"></a>
   <a href="https://github.com/MrBaoboer/FenCun/commits"><img alt="last commit" src="https://img.shields.io/github/last-commit/MrBaoboer/FenCun?style=flat&label=last%20commit&labelColor=1F2328&color=3D444D"></a>
 </p>
-
 
 <p>
   <img width="272" alt="氛寸 FenCun 浅色界面" src="assets/fencun-1.webp">
@@ -167,8 +158,6 @@ GitHub 下载量 **1800+** 次、**55** Stars，获[抖音精选 AI 博主推荐
 打分、喷量与裁决全部由确定性规则计算，可解释、可复现、可降级
 
 DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验与数字白名单把关
-
----
 
 ## 北京一童视界教育科技有限公司
 
@@ -202,8 +191,6 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
   <img width="364" alt="山地车 3D 装配说明书 局部" src="assets/bike-2.webp">
 </p>
 
----
-
 ## 网易传媒科技（北京）有限公司
 
 **内容运营实习生**　｜　2022.06 – 2022.09
@@ -224,8 +211,6 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 基于时事热点、播放数据与用户反馈，持续迭代标题、选题与叙事节奏，提升内容点击与传播效率
 
 [单条作品](https://www.capcut.cn/share/7412276963986969880)全网最高播放量 1000 万+，拉动账号粉丝增长 20%
-
----
 
 ## 人民网股份有限公司
 
@@ -249,7 +234,7 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 
 并在 YouTube、Facebook、X 等海外社媒平台广泛传播
 
-## 专业技能
+# 专业技能
 
 | 类别 | 工具 |
 |:--|:--|
@@ -258,7 +243,7 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 | 产品 | Figma、Xmind |
 | 内容 | PR、PS、剪映、Canva |
 
-## 开源作品
+# 开源作品
 
 | 项目 | 一句话 | 在线体验 |
 |:--|:--|:--|
