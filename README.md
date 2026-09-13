@@ -101,9 +101,6 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 
 项目基于 Tauri 2 + Vue 3 构建；网页版全面适配 PC 端与移动端，桌面版提供迷你悬浮窗，支持随时查看“已经挣了多少钱”。
 
-<img width="496" height="477" alt="image" src="https://github.com/user-attachments/assets/0a7eb77d-8882-4754-bb26-c9cee35fdf12" />
-<img width="354" height="263" alt="image" src="https://github.com/user-attachments/assets/f3041caf-3448-4eb0-bd78-a6064029a8ae" />
-
 ### 发布增长
 
 独立完成[产品官网](https://paydance.vercel.app/)部署、CI / CD 工作流搭建与 [Product Hunt](https://www.producthunt.com/products/paydance) 首发
