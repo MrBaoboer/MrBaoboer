@@ -176,9 +176,14 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 <img width="321" height="224.4" alt="image" src="https://github.com/user-attachments/assets/72e57702-4cc1-4ed8-9058-9f58a7d5dbaa" />
 <img width="331" height="262" alt="image" src="https://github.com/user-attachments/assets/242d7bb1-e6fd-42c5-a12b-9b1de7e2d79e" />
 
+---
+
 ## 网易传媒科技（北京）有限公司
 
 **内容运营实习生**　｜　2022.06 – 2022.09
+
+<img width="480" height="270" alt="庖丁长视频" src="https://github.com/user-attachments/assets/76f9819f-91f5-4328-95e6-f936b3607b2c" />
+<img width="480" height="270" alt="庖丁短视频" src="https://github.com/user-attachments/assets/aa99016c-cde4-4c9b-aec6-8f48bbc8ade5" />
 
 ### 账号运营
 
@@ -190,13 +195,17 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 
 基于时事热点、播放数据与用户反馈，持续迭代标题、选题与叙事节奏，提升内容点击与传播效率
 
-[单条作品](https://www.capcut.cn/share/7412276963986969880)全网最高播放量 1000 万+，拉动账号粉丝增长 20%。
+[单条作品](https://www.capcut.cn/share/7412276963986969880)全网最高播放量 1000 万+，拉动账号粉丝增长 20%
 
 ## 人民网股份有限公司
 
 **海外策划运营实习生**　｜　2022.09 – 2022.12
 
 ### 策划宣发
+
+<img width="298" height="533" alt="image" src="https://github.com/user-attachments/assets/fc6fdbf5-3da8-42d1-9a20-542dbbc10cbb" />
+<img width="298" height="533" alt="image" src="https://github.com/user-attachments/assets/f3d39036-5e07-4fd0-b778-b3df2175c62b" />
+<img width="298" height="533" alt="image" src="https://github.com/user-attachments/assets/b15c06f8-a48c-476f-90cb-61d8c2eb245b" />
 
 负责文化和旅游部“[中意文化和旅游年 · 美食交流活动](https://en.chinaculture.org/special_reports/62de49e6a310fd2b29e6e400)”的内容策划与海外宣发
 
