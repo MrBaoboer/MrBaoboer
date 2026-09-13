@@ -161,30 +161,47 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 
 具象化呈现方案效果、明确交互逻辑，指导研发团队落地实现
 
-<img width="486" height="416.7" alt="image" src="https://github.com/user-attachments/assets/e1fd2765-93bd-4e0c-b854-3d0734db664e" />
-<img <img width="491" height="388" alt="image" src="https://github.com/user-attachments/assets/b2f4db58-8848-4402-8b9a-e5aa773c3ee6" />
+<img width="324" height="277.8" alt="image" src="https://github.com/user-attachments/assets/e1fd2765-93bd-4e0c-b854-3d0734db664e" />
+<img <img width="327.3" height="258.6" alt="image" src="https://github.com/user-attachments/assets/b2f4db58-8848-4402-8b9a-e5aa773c3ee6" />
 
 ### 业务拓展
 
 识别到产品在电商场景中的应用潜力，提出“[3D 装配说明书](https://github.com/MrBaoboer/3D-Bike-Builder)”转型方案，推动形成新的业务方向。
 
-<img width="481.6" height="336.6" alt="image" src="https://github.com/user-attachments/assets/72e57702-4cc1-4ed8-9058-9f58a7d5dbaa" />
-<img width="338" height="290" alt="image" src="https://github.com/user-attachments/assets/6556fd94-32bc-4ef4-bdb1-36c1b5b9797c" />
+<img width="321" height="224.4" alt="image" src="https://github.com/user-attachments/assets/72e57702-4cc1-4ed8-9058-9f58a7d5dbaa" />
+<img width="331" height="262" alt="image" src="https://github.com/user-attachments/assets/242d7bb1-e6fd-42c5-a12b-9b1de7e2d79e" />
 
-
-### 网易传媒科技（北京）有限公司
+## 网易传媒科技（北京）有限公司
 
 **内容运营实习生**　｜　2022.06 – 2022.09
 
-- **账号运营**　负责“网易知识公路”旗下“[庖丁解万物](https://www.bilibili.com/video/BV18N4y1F7oR)”“[三维地图看世界](https://www.bilibili.com/video/BV1x24y1o7m6/)”知识类短视频账号的运营，独立完成选题策划、脚本撰写、剪辑制作、发布复盘全流程。
-- **数据迭代**　基于时事热点、播放数据与用户反馈，持续迭代标题、选题与叙事节奏，提升内容点击与传播效率；[单条作品](https://www.capcut.cn/share/7412276963986969880)全网最高播放量 1000 万+，拉动账号粉丝增长 20%。
+### 账号运营
 
-### 人民网股份有限公司
+负责“网易知识公路”旗下“[庖丁解万物](https://www.bilibili.com/video/BV18N4y1F7oR)”“[三维地图看世界](https://www.bilibili.com/video/BV1x24y1o7m6/)”知识类短视频账号的运营
+
+独立完成选题策划、脚本撰写、剪辑制作、发布复盘全流程
+
+### 数据迭代
+
+基于时事热点、播放数据与用户反馈，持续迭代标题、选题与叙事节奏，提升内容点击与传播效率
+
+[单条作品](https://www.capcut.cn/share/7412276963986969880)全网最高播放量 1000 万+，拉动账号粉丝增长 20%。
+
+## 人民网股份有限公司
 
 **海外策划运营实习生**　｜　2022.09 – 2022.12
 
-- **策划宣发**　负责文化和旅游部“[中意文化和旅游年 · 美食交流活动](https://en.chinaculture.org/special_reports/62de49e6a310fd2b29e6e400)”的内容策划与海外宣发，协调各地文旅部门与采编团队，完成选题策划、脚本撰写、拍摄制作。
-- **传播成果**　[相关作品](https://www.youtube.com/watch?v=XWriuzwCP5A)获中国驻意大利大使馆、文旅部国际交流与合作局等官方账号转载，并在 YouTube、Facebook、X 等海外社媒平台广泛传播。
+### 策划宣发
+
+负责文化和旅游部“[中意文化和旅游年 · 美食交流活动](https://en.chinaculture.org/special_reports/62de49e6a310fd2b29e6e400)”的内容策划与海外宣发
+
+协调各地文旅部门与采编团队，完成选题策划、脚本撰写、拍摄制作
+
+### 传播成果
+
+[相关作品](https://www.youtube.com/watch?v=XWriuzwCP5A)获中国驻意大利大使馆、文旅部国际交流与合作局等官方账号转载
+
+并在 YouTube、Facebook、X 等海外社媒平台广泛传播
 
 ## 专业技能
 
