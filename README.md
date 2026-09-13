@@ -44,8 +44,8 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 - **项目定位**　面向中考理化生实验考试场景，针对“教学反馈不及时、评分标准不客观、操作过程难追溯”三大痛点，主导设计“AI 视觉识别 + 智能教学硬件 + 实验课程内容”一体化解决方案。
 
 
-<img width="2559" height="1437" alt="项目成果" src="https://github.com/user-attachments/assets/6191e15c-2c70-4d6f-9d45-2f01afee161e" />
-<img width="2559" height="1437" alt="核心技术" src="https://github.com/user-attachments/assets/b6df63dc-b95b-4324-b461-5a4e464e58a0" />
+<img width="480" height="270" alt="项目成果" src="https://github.com/user-attachments/assets/6191e15c-2c70-4d6f-9d45-2f01afee161e" />
+<img width="480" height="270" alt="核心技术" src="https://github.com/user-attachments/assets/b6df63dc-b95b-4324-b461-5a4e464e58a0" />
 
 - 
 - **核心工作**　从 0 到 1 完成需求拆解、竞品调研、产品功能规划、商业模式设计、路演材料与对外合作沟通；组建并带领北京师范大学 + 北京邮电大学两校教育学、计算机、商科等跨学科成员 30 余人，推动项目从概念方案进入创业孵化与竞赛验证阶段；作为第一发明人，已申请国家发明专利、实用新型专利 2 项。
