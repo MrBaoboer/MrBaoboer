@@ -10,6 +10,8 @@
 
 </div>
 
+---
+
 ## 教育背景
 
 | 学校 | 专业 | 学历 | 时间 |
@@ -32,6 +34,8 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 校级三好学生、优秀学生干部、优秀共青团员等，共获得校级及以上奖励 40 余项
 
 <img width="480" height="270" alt="个人荣誉" src="https://github.com/user-attachments/assets/3b708ff9-2a2b-42af-a6cd-93e19de0ad55" />
+
+---
 
 ## 创业经历
 
@@ -77,6 +81,8 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 <img width="480" height="270" alt="国创年会" src="https://github.com/user-attachments/assets/8b251bd4-92a2-489c-af7e-a3ea6379bd35" />
 <img width="480" height="270" alt="创业园" src="https://github.com/user-attachments/assets/828905ed-7fce-429b-ab83-f6a9043c616c" />
 
+---
+
 ## 实践经历
 
 ## 薪跳 · PayDance
@@ -90,7 +96,6 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 </p>
 
 <img width="480" height="281" alt="image" src="https://github.com/user-attachments/assets/bf578068-a366-4a02-88f9-fb8aea495eef" />
-
 
 ### 需求洞察
 
@@ -126,7 +131,6 @@ GitHub 下载量 **1800+** 次、**55** Stars，获[抖音精选 AI 博主推荐
 
 <img width="271.9" height="434.7" alt="image" src="https://github.com/user-attachments/assets/43940c07-e84a-4297-aeae-b0bcd24bcd6f" />
 <img width="273" height="431" alt="image" src="https://github.com/user-attachments/assets/4e8468ef-a22e-4144-94f0-b826bb2842a2" />
-
 
 ### 需求洞察
 
@@ -196,6 +200,8 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 基于时事热点、播放数据与用户反馈，持续迭代标题、选题与叙事节奏，提升内容点击与传播效率
 
 [单条作品](https://www.capcut.cn/share/7412276963986969880)全网最高播放量 1000 万+，拉动账号粉丝增长 20%
+
+---
 
 ## 人民网股份有限公司
 
