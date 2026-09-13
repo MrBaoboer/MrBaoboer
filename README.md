@@ -201,11 +201,11 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 
 **海外策划运营实习生**　｜　2022.09 – 2022.12
 
-### 策划宣发
-
-<img width="298" height="533" alt="image" src="https://github.com/user-attachments/assets/fc6fdbf5-3da8-42d1-9a20-542dbbc10cbb" />
 <img width="298" height="533" alt="image" src="https://github.com/user-attachments/assets/f3d39036-5e07-4fd0-b778-b3df2175c62b" />
+<img width="298" height="533" alt="image" src="https://github.com/user-attachments/assets/fc6fdbf5-3da8-42d1-9a20-542dbbc10cbb" />
 <img width="298" height="533" alt="image" src="https://github.com/user-attachments/assets/b15c06f8-a48c-476f-90cb-61d8c2eb245b" />
+
+### 策划宣发
 
 负责文化和旅游部“[中意文化和旅游年 · 美食交流活动](https://en.chinaculture.org/special_reports/62de49e6a310fd2b29e6e400)”的内容策划与海外宣发
 
