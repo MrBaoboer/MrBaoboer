@@ -33,7 +33,9 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 
 校级三好学生、优秀学生干部、优秀共青团员等，共获得校级及以上奖励 40 余项
 
-<img width="480" alt="个人荣誉" src="assets/edu-honors.webp">
+<p>
+  <img width="480" alt="个人荣誉" src="assets/edu-honors.webp">
+</p>
 
 ---
 
@@ -49,8 +51,10 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 
 主导设计“AI 视觉识别 + 智能教学硬件 + 实验课程内容”一体化解决方案
 
-<img width="400" alt="项目成果" src="assets/lingxi-results.webp">
-<img width="400" alt="核心技术" src="assets/lingxi-tech.webp">
+<p>
+  <img width="400" alt="项目成果" src="assets/lingxi-results.webp">
+  <img width="400" alt="核心技术" src="assets/lingxi-tech.webp">
+</p>
 
 ### 核心工作
 
@@ -60,7 +64,9 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 
 推动项目从概念方案进入创业孵化与竞赛验证阶段
 
-<img width="480" alt="核心成员" src="assets/lingxi-team.webp">
+<p>
+  <img width="480" alt="核心成员" src="assets/lingxi-team.webp">
+</p>
 
 ### 竞赛成果
 
@@ -78,8 +84,10 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 
 - 作为第一发明人，已申请国家发明专利、实用新型专利 2 项
 
-<img width="400" alt="国创年会" src="assets/lingxi-forum.webp">
-<img width="400" alt="创业园" src="assets/lingxi-incubator.webp">
+<p>
+  <img width="400" alt="国创年会" src="assets/lingxi-forum.webp">
+  <img width="400" alt="创业园" src="assets/lingxi-incubator.webp">
+</p>
 
 ---
 
@@ -95,7 +103,9 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
   <a href="https://github.com/MrBaoboer/PayDance/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/MrBaoboer/PayDance?style=flat&label=stars&labelColor=1F2328&color=F59E0B"></a>
 </p>
 
-<img width="480" alt="薪跳 PayDance 产品官网" src="assets/paydance-app.webp">
+<p>
+  <img width="480" alt="薪跳 PayDance 产品官网" src="assets/paydance-app.webp">
+</p>
 
 ### 需求洞察
 
@@ -131,8 +141,10 @@ GitHub 下载量 **1800+** 次、**55** Stars，获[抖音精选 AI 博主推荐
 </p>
 
 
-<img width="272" alt="氛寸 FenCun 浅色界面" src="assets/fencun-1.webp">
-<img width="272" alt="氛寸 FenCun 深色界面" src="assets/fencun-2.webp">
+<p>
+  <img width="272" alt="氛寸 FenCun 浅色界面" src="assets/fencun-1.webp">
+  <img width="272" alt="氛寸 FenCun 深色界面" src="assets/fencun-2.webp">
+</p>
 
 ### 需求洞察
 
@@ -172,15 +184,19 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 
 具象化呈现方案效果、明确交互逻辑，指导研发团队落地实现
 
-<img width="340" alt="榫卯灯笼 Demo" src="assets/stepflow-demo-1.webp">
-<img width="340" alt="榫卯灯笼 Demo 拆解" src="assets/stepflow-demo-2.webp">
+<p>
+  <img width="340" alt="榫卯灯笼 Demo" src="assets/stepflow-demo-1.webp">
+  <img width="340" alt="榫卯灯笼 Demo 拆解" src="assets/stepflow-demo-2.webp">
+</p>
 
 ### 业务拓展
 
 识别到产品在电商场景中的应用潜力，提出“[3D 装配说明书](https://github.com/MrBaoboer/3D-Bike-Builder)”转型方案，推动形成新的业务方向。
 
-<img width="364" alt="山地车 3D 装配说明书" src="assets/bike-1.webp">
-<img width="364" alt="山地车 3D 装配说明书 局部" src="assets/bike-2.webp">
+<p>
+  <img width="364" alt="山地车 3D 装配说明书" src="assets/bike-1.webp">
+  <img width="364" alt="山地车 3D 装配说明书 局部" src="assets/bike-2.webp">
+</p>
 
 ---
 
@@ -188,8 +204,10 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 
 **内容运营实习生**　｜　2022.06 – 2022.09
 
-<img width="400" alt="庖丁长视频" src="assets/netease-1.webp">
-<img width="400" alt="庖丁短视频" src="assets/netease-2.webp">
+<p>
+  <img width="400" alt="庖丁长视频" src="assets/netease-1.webp">
+  <img width="400" alt="庖丁短视频" src="assets/netease-2.webp">
+</p>
 
 ### 账号运营
 
@@ -209,9 +227,11 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 
 **海外策划运营实习生**　｜　2022.09 – 2022.12
 
-<img width="230" alt="中意面对面 海报 1" src="assets/people-1.webp">
-<img width="230" alt="中意面对面 海报 2" src="assets/people-2.webp">
-<img width="230" alt="中意面对面 海报 3" src="assets/people-3.webp">
+<p>
+  <img width="230" alt="中意面对面 海报 1" src="assets/people-1.webp">
+  <img width="230" alt="中意面对面 海报 2" src="assets/people-2.webp">
+  <img width="230" alt="中意面对面 海报 3" src="assets/people-3.webp">
+</p>
 
 ### 策划宣发
 
