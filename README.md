@@ -89,9 +89,7 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
   <a href="https://github.com/MrBaoboer/PayDance/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/MrBaoboer/PayDance?style=flat&label=stars&labelColor=1F2328&color=F59E0B"></a>
 </p>
 
-<img width="480" height="270" alt="PayDance" src="https://github.com/user-attachments/assets/bd78d817-70ec-4fc8-a475-5cccc1110ded" />
-<img width="496" height="477" alt="image" src="https://github.com/user-attachments/assets/d3a92bd9-eb83-42b6-980d-5669421776f9" />
-
+<img width="420" height="269.5" alt="image" src="https://github.com/user-attachments/assets/502f125f-54d6-44ce-b91d-4f0d947e720a" />
 
 ### 需求洞察
 
