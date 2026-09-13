@@ -33,6 +33,8 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 
 校级三好学生、优秀学生干部、优秀共青团员等，共获得校级及以上奖励 40 余项
 
+<img width="1440" height="810" alt="班干竞选 副本 副本" src="https://github.com/user-attachments/assets/3b708ff9-2a2b-42af-a6cd-93e19de0ad55" />
+
 ## 创业经历
 
 ### 灵犀智教 · AI 赋能青少年科创实验教学解决方案
