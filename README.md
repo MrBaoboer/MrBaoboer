@@ -73,7 +73,7 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 <img width="480" height="270" alt="创业园" src="https://github.com/user-attachments/assets/828905ed-7fce-429b-ab83-f6a9043c616c" />
 
 
-### 项目成果
+### 竞赛成果
 
 中国国际“互联网+”大学生创新创业大赛北京赛区一等奖
 
