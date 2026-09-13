@@ -125,7 +125,7 @@ GitHub 下载量 **1800+** 次、**55** Stars，获[抖音精选 AI 博主推荐
 
 
 <img width="259" height="414" alt="image" src="https://github.com/user-attachments/assets/43940c07-e84a-4297-aeae-b0bcd24bcd6f" />
-<img width="267" height="417" alt="image" src="https://github.com/user-attachments/assets/6b662bd8-7105-48a8-8ed3-bb08bb504ce3" />
+<img width="273" height="431" alt="image" src="https://github.com/user-attachments/assets/4e8468ef-a22e-4144-94f0-b826bb2842a2" />
 
 
 ### 需求洞察
