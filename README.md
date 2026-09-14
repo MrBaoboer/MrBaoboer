@@ -123,7 +123,7 @@ AIGC 应用、产品设计、统计学、传媒经济学、品牌营销、新媒
 
 独立完成[产品官网](https://paydance.vercel.app/)部署、CI / CD 工作流搭建与 [Product Hunt](https://www.producthunt.com/products/paydance) 首发
 
-GitHub 下载量 **1800+** 次、**55** Stars，获[抖音精选 AI 博主推荐](https://v.douyin.com/LAk1Ufx1cx4/)，已申请软件著作权
+GitHub 下载量 **1800+ 次**、**50+ Stars**，获[抖音精选 AI 博主推荐](https://v.douyin.com/LAk1Ufx1cx4/)，已申请软件著作权
 
 跑通“需求洞察—功能设计—开发测试—发布增长”的完整闭环
 
