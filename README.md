@@ -217,9 +217,9 @@ DeepSeek 负责解析自然语言场景与生成话术，输出经 schema 校验
 **海外策划运营实习生**　｜　2022.09 – 2022.12
 
 <p>
-  <img width="230" alt="中意面对面 海报 1" src="assets/people-1.webp">
-  <img width="230" alt="中意面对面 海报 2" src="assets/people-2.webp">
-  <img width="230" alt="中意面对面 海报 3" src="assets/people-3.webp">
+  <img width="150" alt="中意面对面 海报 1" src="assets/people-1.webp">
+  <img width="150" alt="中意面对面 海报 2" src="assets/people-2.webp">
+  <img width="150" alt="中意面对面 海报 3" src="assets/people-3.webp">
 </p>
 
 ### 策划宣发
